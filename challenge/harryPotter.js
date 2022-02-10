@@ -1,3 +1,4 @@
+//This file is named harryPotter.js because it is relevant to books
 var isWizard = true
 var isMuggle = true
 var numOfBooks = 9
